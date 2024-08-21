@@ -1,2 +1,0 @@
-# ADP
-Assignment 1
